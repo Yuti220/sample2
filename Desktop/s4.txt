@@ -1,2 +1,2 @@
-Example for git flow workflow
+Sample document
 
